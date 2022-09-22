@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
+nav{
+    background-color: #303030;
+}
+#search-btn{
+    background-color: #e8631c;
+    border: 0px;
+}
+.hero-part{
+    background: url(../image/heder-bg.png) no-repeat center;
+    background-size: cover;
+    color: #fff;
+    padding: 200px 0px 20px;
+}
+.hero-part h1{
+    width: 100%;
+    font-size: 100px;
+    font-weight: 400;
+}
+.hero-part p{
+    width: 100%;
+    font-size: 35px;
+    font-weight: 100;
+}
+#hero-btn{
+    background-color: #e8631c;
+}
+#about{
+    background: url(../image/bg1.png) no-repeat center;
+    background-size: cover;
+}
+.card{
+    background-color: #303030;
+}
+.about-writing-part p{
+    width: 50%;
+}
+#pricing{
+    background: url(../image/bg2.png) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.card-2{
+    background-color: #e8631c;
+}
+.pricing-writing-part p{
+    width: 50%;
+}
+#amazing{
+    color: #fff;
+}
+.amazing-writing-part{
+    padding: 250px 50px;
+}
+.amazing-writing{
+    background: url(../image/amazing2.png) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.amazing-writing h1{
+    font-size: 60px;
+}
+.amazing-writing p{
+    font-size: 30px;
+}
+#amazing-btn{
+    width: 40%;
+    padding: 10px;
+}
+#statistics{
+    background-color: #303030;
+}
+.statistics-writing-part{
+    padding: 150px 0px;
+}
+#herbert{
+    background: url(../image/Musicology.png) no-repeat center;
+    background-size: cover;
+}
+.writing-part{
+    padding: 250px 0px;
+}
+.writing p{
+    width: 50%;
+    margin: auto;
+    font-size: 40px;
+    font-weight: 100;
+}
+.writing h1{
+    font-size: 70px;
+    padding: 10px;
+}
+#subscribe{
+    background: url(../image/sub1.png) no-repeat center;
+    background-size: cover;
+    padding: 50px;
+}
+.sub-writing-part p{
+    width: 50%;
+}
+#service{
+    background-color: #303030;
+    padding: 50px 0px;
+    color: #fff;
+}
